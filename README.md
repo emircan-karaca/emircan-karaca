@@ -67,14 +67,14 @@ Everything I build is private for now. I open things up when it is honest enough
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=emircankaraca55&theme=github-dark-blue&hide_border=true&background=00000000">
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=emircankaraca55&theme=default&hide_border=true&background=00000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=emircan-karaca&theme=github-dark-blue&hide_border=true&background=00000000">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=emircan-karaca&theme=default&hide_border=true&background=00000000">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emircankaraca55/emircankaraca55/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emircankaraca55/emircankaraca55/output/github-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/emircankaraca55/emircankaraca55/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emircan-karaca/emircan-karaca/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emircan-karaca/emircan-karaca/output/github-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/emircan-karaca/emircan-karaca/output/github-snake.svg">
   </picture>
 </div>
 
